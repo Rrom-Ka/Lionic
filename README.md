@@ -32,3 +32,9 @@ lionoc/
 ├── js/
 │   └── script.js       # Логика бургера и галереи
 └── index.html          # Главная страница
+
+## 📦 Быстрый старт
+
+1. **Клонируйте репозиторий:**
+   ```bash
+   git clone https://github.com/Rrom-Ka/Lionic.git
